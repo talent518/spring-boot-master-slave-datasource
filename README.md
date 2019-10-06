@@ -4,3 +4,5 @@ Springboot Realizes Mysql Read-Write Separation Demo
   * Using springboot version 2.1.9.RELEASE
   * Using MyBatis+MySQL to Realize Read-Write Separation of Master-Slave Database
   * Running the SpringBootMasterSlaveDatasourceApplicationTests class using JUnit unit tests
+
+> From blog: https://www.cnblogs.com/nexiyi/p/junit_test_in_order.html
